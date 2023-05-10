@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'TRAFO'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CA3C78FECF8E4483AC47C288EA69C231 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BE7C06B9371A42439DD328BDBF1546C1 }}
           package: .
